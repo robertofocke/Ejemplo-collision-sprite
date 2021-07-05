@@ -1,2 +1,2 @@
 # Sprite-R2
- Ejemplo simple de colision entre sprites
+ Ejemplo simple de colision entre sprites en SGDK
